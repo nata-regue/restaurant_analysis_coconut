@@ -8,17 +8,17 @@ Analyze sales data to identify opportunities for growth and optimization
 
 ### Defining Goals: 
 
--How many orders were made within a year, month, week, hour.
+- How many orders were made within a year, month, week, hour.
 
--How much has been sold within a year, month, week, hour. 
+- Which product gave more profit
 
--Which product gave more profit
+- How were revenues by drink classification . 
 
--Analyze customer orders pattern (determine which beverage was asked more with which product)
+- Which drink product gave more profit
 
--How many deliveries there were
+- Analyze customer orders pattern (determine which drink was asked more with which product)
 
--Which delivery company got more sales
+- Which delivery company got more sales
 
 ### Querying the Data: 
 Once the goals were defined, querying was done with Python.
